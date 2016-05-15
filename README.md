@@ -1,5 +1,7 @@
 # AppleClassClient
 
+[ ![Codeship Status for albertyw/apple_class_client](https://codeship.com/projects/9c364080-fd10-0133-688f-7e176884dbc2/status?branch=master)](https://codeship.com/projects/152119)
+
 This is a client for accessing Apple MDM's class, person, location, and course rosters.
 
 ## Installation
