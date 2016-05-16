@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Client for accessing Apple MDM class information}
   spec.description   = %q{This is a client for accessing Apple MDM's class, person, location, and course rosters.}
-  spec.homepage      = "https://github.com/albertyw/apple_class_client"
+  spec.homepage      = "https://github.com/cellabus/apple_class_client"
   spec.license       = "AGPL-3.0"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
