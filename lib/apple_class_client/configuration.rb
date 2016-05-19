@@ -11,7 +11,7 @@ module AppleClassClient
       access_token: nil,
       access_secret: nil,
       access_token_expiry: nil,
-      apple_mdm_server: "https://mdmenrollment.apple.com", # Domain that Apple's DEP servers are at
+      apple_mdm_server: "https://mdmenrollment.apple.com", # Apple MDM server url
       user_agent: "CellabusMDM",
     }
 
