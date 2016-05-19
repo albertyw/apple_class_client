@@ -8,3 +8,5 @@ end
 require "apple_class_client/auth"
 require "apple_class_client/error"
 require "apple_class_client/request"
+
+require "apple_class_client/class_roster"
