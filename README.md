@@ -2,6 +2,7 @@
 
 [ ![Codeship Status for cellabus/apple_class_client](https://codeship.com/projects/9c364080-fd10-0133-688f-7e176884dbc2/status?branch=master)](https://codeship.com/projects/152119)
 [![Code Climate](https://codeclimate.com/github/cellabus/apple_class_client/badges/gpa.svg)](https://codeclimate.com/github/cellabus/apple_class_client)
+[![Dependency Status](https://gemnasium.com/badges/github.com/cellabus/apple_class_client.svg)](https://gemnasium.com/github.com/cellabus/apple_class_client)
 
 This is a client for accessing Apple MDM's class, person, location, and course rosters.
 
