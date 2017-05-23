@@ -1,8 +1,8 @@
 # AppleClassClient
 
-[ ![Codeship Status for cellabus/apple_class_client](https://codeship.com/projects/9c364080-fd10-0133-688f-7e176884dbc2/status?branch=master)](https://codeship.com/projects/152119)
-[![Code Climate](https://codeclimate.com/github/cellabus/apple_class_client/badges/gpa.svg)](https://codeclimate.com/github/cellabus/apple_class_client)
-[![Dependency Status](https://gemnasium.com/badges/github.com/cellabus/apple_class_client.svg)](https://gemnasium.com/github.com/cellabus/apple_class_client)
+[ ![Codeship Status for albertyw/apple_class_client](https://app.codeship.com/projects/9c364080-fd10-0133-688f-7e176884dbc2/status?branch=master)](https://app.codeship.com/projects/152119)
+[![Code Climate](https://codeclimate.com/github/albertyw/apple_class_client/badges/gpa.svg)](https://codeclimate.com/github/albertyw/apple_class_client)
+[![Dependency Status](https://gemnasium.com/badges/github.com/albertyw/apple_class_client.svg)](https://gemnasium.com/github.com/albertyw/apple_class_client)
 
 This is a client for accessing Apple MDM's class, person, location, and course rosters.
 
@@ -34,4 +34,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/cellabus/apple_class_client. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/albertyw/apple_class_client. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
