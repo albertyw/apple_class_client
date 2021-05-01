@@ -6,6 +6,12 @@ steps:
   - name: Test Ruby
     image: ruby:3.0.1
     commands:
+      - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > "${HOME}/bin/cc-test-reporter"
+      - chmod +x "${HOME}/bin/cc-test-reporter"
       - bundle -v
       - bundle install
+      - cc-test-reporter before-build
       - bundle exec rake
+      - cc-test-reporter after-build --exit-code $? -t simplecov
+    environment:
+      CC_TEST_REPORTER_ID: 510242fc592e8e72204cdc67e94ad46c1340404b1b756abd82e63ef00e6724f2
