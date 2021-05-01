@@ -1,6 +1,6 @@
 # AppleClassClient
 
-[ ![Codeship Status for albertyw/apple_class_client](https://app.codeship.com/projects/9c364080-fd10-0133-688f-7e176884dbc2/status?branch=master)](https://app.codeship.com/projects/152119)
+[![Build Status](https://drone.albertyw.com/api/badges/albertyw/apple_class_client/status.svg)](https://drone.albertyw.com/albertyw/apple_class_client)
 [![Code Climate](https://codeclimate.com/github/albertyw/apple_class_client/badges/gpa.svg)](https://codeclimate.com/github/albertyw/apple_class_client)
 [![Dependency Status](https://img.shields.io/librariesio/release/rubygems/apple_class_client.svg)](https://libraries.io/rubygems/apple_class_client)
 
