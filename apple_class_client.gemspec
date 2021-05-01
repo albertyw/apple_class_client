@@ -19,10 +19,10 @@ Gem::Specification.new do |spec|
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "oauth", "~> 0.4"
-  spec.add_dependency "typhoeus", [">= 0.7", "< 1.2"]
+  spec.add_dependency "oauth", "~> 0.5.6"
+  spec.add_dependency "typhoeus", "~> 1.4.0"
   spec.add_development_dependency "bundler", "~> 2.2"
-  spec.add_development_dependency "rake", ">= 11.0"
-  spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "simplecov", "~> 0.15"
+  spec.add_development_dependency "rake", "~> 13"
+  spec.add_development_dependency "rspec", "~> 3.10"
+  spec.add_development_dependency "simplecov", "~> 0.21.2"
 end
